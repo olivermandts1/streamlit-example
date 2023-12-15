@@ -1,10 +1,10 @@
-import altair as alt
+oimport altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit!
+# Hello World!
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
